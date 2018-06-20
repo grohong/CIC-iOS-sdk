@@ -1,0 +1,6 @@
+framework module Pods_CIC_iOS_sdk {
+  umbrella header "Pods-CIC-iOS-sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

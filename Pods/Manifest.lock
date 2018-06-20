@@ -1,0 +1,16 @@
+PODS:
+  - naveridlogin-sdk-ios (4.0.10)
+
+DEPENDENCIES:
+  - naveridlogin-sdk-ios
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - naveridlogin-sdk-ios
+
+SPEC CHECKSUMS:
+  naveridlogin-sdk-ios: b5a31343e7f98bab1a5a37b1bc0af3354ad59d11
+
+PODFILE CHECKSUM: 4a5a8bebbc5b5ede97a8ab776bb53043b400ca8a
+
+COCOAPODS: 1.5.0
